@@ -1,0 +1,32 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spotmedb
+    username: root
+    password: // use your database password
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  servlet:
+    multipart:
+      max-file-size: 1024MB
+      max-request-size: 1024MB
+  
+#  dialect : org.hibernate.dialect.SQLServer2012Dialect
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: mithleshgupta241@gmail.com
+    password: gskr qpyt nppl vaem       // replace this with your passowrd and email
+stripe:
+  api:
+    publishableKey: pk_test_51OcRTySGojgWCtVAnMSapc6COsStYwE4t9D0Qgcg3GJDUY3wH0dMvzN7iKCAutAZ4RygWGm5spfb94ySxISxkN2t00pQVSVdbP
+    secretKey: sk_test_51OcRTySGojgWCtVAqjiUwmqrfiTWAhLOAbqIUg3HFaoRc0wTM0UM2wSz5wvtLemoTKAgkhTjtpIT9FjsJ5iBk30600TENqIUxP
+
+server:
+  tomcat:
+    max-http-form-post-size: 6291456
+
+

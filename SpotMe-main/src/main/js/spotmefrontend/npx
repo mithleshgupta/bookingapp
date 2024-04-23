@@ -1,0 +1,1137 @@
+› Building app...
+Starting a Gradle Daemon, 1 busy and 1 incompatible Daemons could not be reused, use --status for details
+Configuration on demand is an incubating feature.
+> Task :expo-dev-launcher-gradle-plugin:pluginDescriptors
+> Task :expo-dev-launcher-gradle-plugin:processResources
+> Task :expo-dev-launcher-gradle-plugin:compileKotlin
+> Task :expo-dev-launcher-gradle-plugin:compileJava NO-SOURCE
+> Task :expo-dev-launcher-gradle-plugin:classes
+> Task :expo-dev-launcher-gradle-plugin:jar
+> Task :expo-dev-launcher-gradle-plugin:inspectClassesForKotlinIC
+> Task :react-native-gradle-plugin:compileKotlin
+> Task :react-native-gradle-plugin:compileJava NO-SOURCE
+> Task :react-native-gradle-plugin:pluginDescriptors
+> Task :react-native-gradle-plugin:processResources
+> Task :react-native-gradle-plugin:classes
+> Task :react-native-gradle-plugin:inspectClassesForKotlinIC
+> Task :react-native-gradle-plugin:jar
+
+> Configure project :app
+ ??  [33mApplying gradle plugin[0m '[32mexpo-dev-launcher-gradle-plugin[0m' (expo-dev-launcher@2.2.1)
+
+> Configure project :expo-application
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-constants
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-dev-client
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-dev-launcher
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-dev-menu
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-dev-menu-interface
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-file-system
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-font
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-image-loader
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-image-picker
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-json-utils
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-keep-awake
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-location
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-manifests
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-modules-core
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-splash-screen
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo-updates-interface
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :expo
+
+Using expo modules
+  - [32mexpo-application[0m (5.1.1)
+  - [32mexpo-constants[0m (14.2.1)
+  - [32mexpo-dev-client[0m (2.2.1)
+  - [32mexpo-dev-launcher[0m (2.2.1)
+  - [32mexpo-dev-menu[0m (2.2.0)
+  - [32mexpo-file-system[0m (15.2.2)
+  - [32mexpo-font[0m (11.1.1)
+  - [32mexpo-image-loader[0m (4.1.1)
+  - [32mexpo-image-picker[0m (14.1.1)
+  - [32mexpo-json-utils[0m (0.5.1)
+  - [32mexpo-keep-awake[0m (12.0.1)
+  - [32mexpo-location[0m (15.1.1)
+  - [32mexpo-manifests[0m (0.5.2)
+  - [32mexpo-modules-core[0m (1.2.7)
+  - [32mexpo-splash-screen[0m (0.18.2)
+
+WARNING:Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL.
+
+> Configure project :react-native-reanimated
+AAR for react-native-reanimated has been found
+C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-reanimated\android\react-native-reanimated-71-hermes.aar
+
+The Kotlin Gradle plugin was loaded multiple times in different subprojects, which is not supported and may break the build. 
+This might happen in subprojects that apply the Kotlin plugins with the Gradle 'plugins { ... }' DSL if they specify explicit versions, even if the versions are equal.
+Please add the Kotlin plugin to the common parent project or the root project, then remove the versions in the subprojects.
+If the parent project does not need the plugin, add 'apply false' to the plugin line.
+See: https://docs.gradle.org/current/userguide/plugins.html#sec:subprojects_plugins_dsl
+The Kotlin plugin was loaded in the following projects: ':expo', ':expo-modules-core'
+
+The Kotlin Gradle plugin was loaded multiple times in different subprojects, which is not supported and may break the build. 
+This might happen in subprojects that apply the Kotlin plugins with the Gradle 'plugins { ... }' DSL if they specify explicit versions, even if the versions are equal.
+Please add the Kotlin plugin to the common parent project or the root project, then remove the versions in the subprojects.
+If the parent project does not need the plugin, add 'apply false' to the plugin line.
+See: https://docs.gradle.org/current/userguide/plugins.html#sec:subprojects_plugins_dsl
+The Kotlin plugin was loaded in the following projects: ':react-native-gesture-handler', ':react-native-screens'
+
+> Task :app:buildCodegenCLI SKIPPED
+> Task :app:generateCodegenSchemaFromJavaScript SKIPPED
+> Task :app:generateCodegenArtifactsFromSchema SKIPPED
+> Task :app:generatePackageList
+> Task :app:preBuild
+> Task :app:preDebugBuild
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :expo:generateExpoModulesPackageList
+> Task :expo:preBuild
+> Task :expo:preDebugBuild
+> Task :expo-application:preBuild UP-TO-DATE
+> Task :expo-application:preDebugBuild UP-TO-DATE
+> Task :expo-modules-core:preBuild UP-TO-DATE
+> Task :expo-modules-core:preDebugBuild UP-TO-DATE
+> Task :expo-modules-core:compileDebugAidl NO-SOURCE
+> Task :expo-application:compileDebugAidl NO-SOURCE
+> Task :expo-constants:preBuild UP-TO-DATE
+> Task :expo-constants:preDebugBuild UP-TO-DATE
+> Task :expo-constants:compileDebugAidl NO-SOURCE
+> Task :expo-dev-client:preBuild UP-TO-DATE
+> Task :expo-dev-client:preDebugBuild UP-TO-DATE
+> Task :expo-dev-client:compileDebugAidl NO-SOURCE
+> Task :expo-dev-launcher:preBuild UP-TO-DATE
+> Task :expo-dev-launcher:preDebugBuild UP-TO-DATE
+> Task :expo-dev-menu:preBuild UP-TO-DATE
+> Task :expo-dev-menu:preDebugBuild UP-TO-DATE
+> Task :expo-dev-menu-interface:preBuild UP-TO-DATE
+> Task :expo-dev-menu-interface:preDebugBuild UP-TO-DATE
+> Task :expo-dev-menu-interface:compileDebugAidl NO-SOURCE
+> Task :expo-json-utils:preBuild UP-TO-DATE
+> Task :expo-json-utils:preDebugBuild UP-TO-DATE
+> Task :expo-json-utils:compileDebugAidl NO-SOURCE
+> Task :expo-manifests:preBuild UP-TO-DATE
+> Task :expo-manifests:preDebugBuild UP-TO-DATE
+> Task :expo-manifests:compileDebugAidl NO-SOURCE
+> Task :expo-dev-menu:compileDebugAidl NO-SOURCE
+> Task :expo-updates-interface:preBuild UP-TO-DATE
+> Task :expo-updates-interface:preDebugBuild UP-TO-DATE
+> Task :expo-updates-interface:compileDebugAidl NO-SOURCE
+> Task :expo-dev-launcher:compileDebugAidl NO-SOURCE
+> Task :expo-file-system:preBuild UP-TO-DATE
+> Task :expo-file-system:preDebugBuild UP-TO-DATE
+> Task :expo-file-system:compileDebugAidl NO-SOURCE
+> Task :expo-font:preBuild UP-TO-DATE
+> Task :expo-font:preDebugBuild UP-TO-DATE
+> Task :expo-font:compileDebugAidl NO-SOURCE
+> Task :expo-image-loader:preBuild UP-TO-DATE
+> Task :expo-image-loader:preDebugBuild UP-TO-DATE
+> Task :expo-image-loader:compileDebugAidl NO-SOURCE
+> Task :expo-image-picker:preBuild UP-TO-DATE
+> Task :expo-image-picker:preDebugBuild UP-TO-DATE
+> Task :expo-image-picker:compileDebugAidl NO-SOURCE
+> Task :expo-keep-awake:preBuild UP-TO-DATE
+> Task :expo-keep-awake:preDebugBuild UP-TO-DATE
+> Task :expo-keep-awake:compileDebugAidl NO-SOURCE
+> Task :expo-location:preBuild UP-TO-DATE
+> Task :expo-location:preDebugBuild UP-TO-DATE
+> Task :expo-location:compileDebugAidl NO-SOURCE
+> Task :expo-splash-screen:preBuild UP-TO-DATE
+> Task :expo-splash-screen:preDebugBuild UP-TO-DATE
+> Task :expo-splash-screen:compileDebugAidl NO-SOURCE
+> Task :expo:compileDebugAidl NO-SOURCE
+> Task :react-native-gesture-handler:assertNoMultipleInstances
+> Task :react-native-gesture-handler:preBuild
+> Task :react-native-gesture-handler:preDebugBuild
+> Task :react-native-gesture-handler:compileDebugAidl NO-SOURCE
+> Task :react-native-maps:preBuild UP-TO-DATE
+> Task :react-native-maps:preDebugBuild UP-TO-DATE
+> Task :react-native-maps:compileDebugAidl NO-SOURCE
+> Task :react-native-razorpay:preBuild UP-TO-DATE
+> Task :react-native-razorpay:preDebugBuild UP-TO-DATE
+> Task :react-native-razorpay:compileDebugAidl NO-SOURCE
+> Task :react-native-safe-area-context:preBuild UP-TO-DATE
+> Task :react-native-safe-area-context:preDebugBuild UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugAidl NO-SOURCE
+> Task :react-native-screens:preBuild UP-TO-DATE
+> Task :react-native-screens:preDebugBuild UP-TO-DATE
+> Task :react-native-screens:compileDebugAidl NO-SOURCE
+> Task :react-native-svg:preBuild UP-TO-DATE
+> Task :react-native-svg:preDebugBuild UP-TO-DATE
+> Task :react-native-svg:compileDebugAidl NO-SOURCE
+> Task :react-native-vector-icons:preBuild UP-TO-DATE
+> Task :react-native-vector-icons:preDebugBuild UP-TO-DATE
+> Task :react-native-vector-icons:compileDebugAidl NO-SOURCE
+> Task :stripe_stripe-react-native:preBuild UP-TO-DATE
+> Task :stripe_stripe-react-native:preDebugBuild UP-TO-DATE
+> Task :stripe_stripe-react-native:compileDebugAidl NO-SOURCE
+> Task :app:compileDebugAidl NO-SOURCE
+> Task :expo:packageDebugRenderscript NO-SOURCE
+> Task :expo-application:packageDebugRenderscript NO-SOURCE
+> Task :expo-constants:packageDebugRenderscript NO-SOURCE
+> Task :expo-dev-client:packageDebugRenderscript NO-SOURCE
+> Task :expo-dev-launcher:packageDebugRenderscript NO-SOURCE
+> Task :expo-dev-menu:packageDebugRenderscript NO-SOURCE
+> Task :expo-file-system:packageDebugRenderscript NO-SOURCE
+> Task :expo-font:packageDebugRenderscript NO-SOURCE
+> Task :expo-image-loader:packageDebugRenderscript NO-SOURCE
+> Task :expo-image-picker:packageDebugRenderscript NO-SOURCE
+> Task :expo-json-utils:packageDebugRenderscript NO-SOURCE
+> Task :expo-keep-awake:packageDebugRenderscript NO-SOURCE
+> Task :expo-location:packageDebugRenderscript NO-SOURCE
+> Task :expo-manifests:packageDebugRenderscript NO-SOURCE
+> Task :expo-modules-core:packageDebugRenderscript NO-SOURCE
+> Task :expo-splash-screen:packageDebugRenderscript NO-SOURCE
+> Task :react-native-gesture-handler:packageDebugRenderscript NO-SOURCE
+> Task :react-native-maps:packageDebugRenderscript NO-SOURCE
+> Task :react-native-razorpay:packageDebugRenderscript NO-SOURCE
+> Task :react-native-safe-area-context:packageDebugRenderscript NO-SOURCE
+> Task :react-native-screens:packageDebugRenderscript NO-SOURCE
+> Task :react-native-svg:packageDebugRenderscript NO-SOURCE
+> Task :react-native-vector-icons:packageDebugRenderscript NO-SOURCE
+> Task :stripe_stripe-react-native:packageDebugRenderscript NO-SOURCE
+> Task :app:compileDebugRenderscript NO-SOURCE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :expo:compileDebugRenderscript NO-SOURCE
+> Task :expo:generateDebugResValues
+> Task :expo:generateDebugResources
+> Task :expo:packageDebugResources
+> Task :expo-application:compileDebugRenderscript NO-SOURCE
+> Task :expo-application:generateDebugResValues
+> Task :expo-application:generateDebugResources
+> Task :expo-application:packageDebugResources
+> Task :expo-constants:compileDebugRenderscript NO-SOURCE
+> Task :expo-constants:generateDebugResValues
+> Task :expo-constants:generateDebugResources
+> Task :expo-constants:packageDebugResources
+> Task :expo-dev-client:compileDebugRenderscript NO-SOURCE
+> Task :expo-dev-client:generateDebugResValues
+> Task :expo-dev-client:generateDebugResources
+> Task :expo-dev-client:packageDebugResources
+> Task :expo-dev-menu-interface:packageDebugRenderscript NO-SOURCE
+> Task :expo-updates-interface:packageDebugRenderscript NO-SOURCE
+> Task :expo-dev-launcher:compileDebugRenderscript NO-SOURCE
+> Task :expo-dev-launcher:generateDebugResValues
+> Task :expo-dev-launcher:generateDebugResources
+> Task :expo-dev-launcher:packageDebugResources
+> Task :expo-dev-menu:compileDebugRenderscript NO-SOURCE
+> Task :expo-dev-menu:generateDebugResValues
+> Task :expo-dev-menu:generateDebugResources
+> Task :expo-dev-menu:packageDebugResources
+> Task :expo-dev-menu-interface:compileDebugRenderscript NO-SOURCE
+> Task :expo-dev-menu-interface:generateDebugResValues
+> Task :expo-dev-menu-interface:generateDebugResources
+> Task :expo-dev-menu-interface:packageDebugResources
+> Task :expo-file-system:compileDebugRenderscript NO-SOURCE
+> Task :expo-file-system:generateDebugResValues
+> Task :expo-file-system:generateDebugResources
+> Task :expo-file-system:packageDebugResources
+> Task :expo-font:compileDebugRenderscript NO-SOURCE
+> Task :expo-font:generateDebugResValues
+> Task :expo-font:generateDebugResources
+> Task :expo-font:packageDebugResources
+> Task :expo-image-loader:compileDebugRenderscript NO-SOURCE
+> Task :expo-image-loader:generateDebugResValues
+> Task :expo-image-loader:generateDebugResources
+> Task :expo-image-loader:packageDebugResources
+> Task :expo-image-picker:compileDebugRenderscript NO-SOURCE
+> Task :expo-image-picker:generateDebugResValues
+> Task :expo-image-picker:generateDebugResources
+> Task :expo-image-picker:packageDebugResources
+> Task :expo-json-utils:compileDebugRenderscript NO-SOURCE
+> Task :expo-json-utils:generateDebugResValues
+> Task :expo-json-utils:generateDebugResources
+> Task :expo-json-utils:packageDebugResources
+> Task :expo-keep-awake:compileDebugRenderscript NO-SOURCE
+> Task :expo-keep-awake:generateDebugResValues
+> Task :expo-keep-awake:generateDebugResources
+> Task :expo-keep-awake:packageDebugResources
+> Task :expo-location:compileDebugRenderscript NO-SOURCE
+> Task :expo-location:generateDebugResValues
+> Task :expo-location:generateDebugResources
+> Task :expo-location:packageDebugResources
+> Task :expo-manifests:compileDebugRenderscript NO-SOURCE
+> Task :expo-manifests:generateDebugResValues
+> Task :expo-manifests:generateDebugResources
+> Task :expo-manifests:packageDebugResources
+> Task :expo-modules-core:compileDebugRenderscript NO-SOURCE
+> Task :expo-modules-core:generateDebugResValues
+> Task :expo-modules-core:generateDebugResources
+> Task :expo-modules-core:packageDebugResources
+> Task :expo-splash-screen:compileDebugRenderscript NO-SOURCE
+> Task :expo-splash-screen:generateDebugResValues
+> Task :expo-splash-screen:generateDebugResources
+> Task :expo-splash-screen:packageDebugResources
+> Task :expo-updates-interface:compileDebugRenderscript NO-SOURCE
+> Task :expo-updates-interface:generateDebugResValues
+> Task :expo-updates-interface:generateDebugResources
+> Task :expo-updates-interface:packageDebugResources
+> Task :react-native-gesture-handler:compileDebugRenderscript NO-SOURCE
+> Task :react-native-gesture-handler:generateDebugResValues
+> Task :react-native-gesture-handler:generateDebugResources
+> Task :react-native-gesture-handler:packageDebugResources
+> Task :react-native-maps:compileDebugRenderscript NO-SOURCE
+> Task :react-native-maps:generateDebugResValues
+> Task :react-native-maps:generateDebugResources
+> Task :react-native-maps:packageDebugResources
+> Task :react-native-razorpay:compileDebugRenderscript NO-SOURCE
+> Task :react-native-razorpay:generateDebugResValues
+> Task :react-native-razorpay:generateDebugResources
+> Task :react-native-razorpay:packageDebugResources
+> Task :react-native-safe-area-context:compileDebugRenderscript NO-SOURCE
+> Task :react-native-safe-area-context:generateDebugResValues
+> Task :react-native-safe-area-context:generateDebugResources
+> Task :react-native-safe-area-context:packageDebugResources
+> Task :react-native-screens:compileDebugRenderscript NO-SOURCE
+> Task :react-native-screens:generateDebugResValues
+> Task :react-native-screens:generateDebugResources
+> Task :react-native-screens:packageDebugResources
+> Task :react-native-svg:compileDebugRenderscript NO-SOURCE
+> Task :react-native-svg:generateDebugResValues
+> Task :react-native-svg:generateDebugResources
+> Task :react-native-svg:packageDebugResources
+> Task :react-native-vector-icons:compileDebugRenderscript NO-SOURCE
+> Task :react-native-vector-icons:generateDebugResValues
+> Task :react-native-vector-icons:generateDebugResources
+> Task :react-native-vector-icons:packageDebugResources
+> Task :stripe_stripe-react-native:compileDebugRenderscript NO-SOURCE
+> Task :stripe_stripe-react-native:generateDebugResValues
+> Task :stripe_stripe-react-native:generateDebugResources
+> Task :stripe_stripe-react-native:packageDebugResources
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :expo:extractDeepLinksDebug
+> Task :expo-application:extractDeepLinksDebug
+> Task :expo-constants:extractDeepLinksDebug
+> Task :expo-dev-client:extractDeepLinksDebug
+> Task :expo-dev-launcher:extractDeepLinksDebug
+> Task :expo-dev-menu:extractDeepLinksDebug
+> Task :expo-dev-menu-interface:extractDeepLinksDebug
+
+> Task :expo-dev-menu:processDebugManifest
+package="expo.modules.devmenu" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-dev-menu\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-dev-launcher:processDebugManifest
+package="expo.modules.devlauncher" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-dev-launcher\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo:processDebugManifest
+package="expo.core" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-file-system:extractDeepLinksDebug
+
+> Task :expo-dev-client:processDebugManifest
+package="expo.modules.devclient" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-dev-client\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-application:processDebugManifest
+package="expo.modules.application" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-application\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-constants:processDebugManifest
+package="expo.modules.constants" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-constants\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-dev-menu-interface:processDebugManifest
+package="expo.interfaces.devmenu" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-dev-menu-interface\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-font:extractDeepLinksDebug
+
+> Task :expo-file-system:processDebugManifest
+package="expo.modules.filesystem" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-file-system\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-file-system\android\src\main\AndroidManifest.xml:8:9-10:20 Warning:
+	provider#expo.modules.filesystem.FileSystemFileProvider@android:authorities was tagged at AndroidManifest.xml:8 to replace other declarations but no other declaration present
+
+> Task :expo-image-loader:extractDeepLinksDebug
+
+> Task :expo-font:processDebugManifest
+package="expo.modules.font" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-font\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-image-picker:extractDeepLinksDebug
+
+> Task :expo-image-loader:processDebugManifest
+package="expo.modules.imageloader" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-image-loader\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-json-utils:extractDeepLinksDebug
+
+> Task :expo-image-picker:processDebugManifest
+package="expo.modules.imagepicker" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-image-picker\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-keep-awake:extractDeepLinksDebug
+
+> Task :expo-json-utils:processDebugManifest
+package="expo.modules.jsonutils" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-json-utils\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-location:extractDeepLinksDebug
+
+> Task :expo-keep-awake:processDebugManifest
+package="expo.modules.keepawake" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-keep-awake\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-manifests:extractDeepLinksDebug
+
+> Task :expo-location:processDebugManifest
+package="expo.modules.location" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-location\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-modules-core:extractDeepLinksDebug
+
+> Task :expo-manifests:processDebugManifest
+package="expo.modules.manifests" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-manifests\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-splash-screen:extractDeepLinksDebug
+
+> Task :expo-modules-core:processDebugManifest
+package="expo.modules" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-modules-core\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-updates-interface:extractDeepLinksDebug
+
+> Task :expo-splash-screen:processDebugManifest
+package="expo.modules.splashscreen" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-splash-screen\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :react-native-gesture-handler:extractDeepLinksDebug
+
+> Task :expo-updates-interface:processDebugManifest
+package="expo.modules.updatesinterface" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\expo-updates-interface\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :react-native-maps:extractDeepLinksDebug
+
+> Task :react-native-gesture-handler:processDebugManifest
+package="com.swmansion.gesturehandler" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :react-native-razorpay:extractDeepLinksDebug
+
+> Task :react-native-maps:processDebugManifest
+package="com.airbnb.android.react.maps" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-maps\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :react-native-safe-area-context:extractDeepLinksDebug
+
+> Task :react-native-razorpay:processDebugManifest
+package="com.razorpay.rn" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-razorpay\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :react-native-screens:extractDeepLinksDebug
+
+> Task :react-native-safe-area-context:processDebugManifest
+package="com.th3rdwave.safeareacontext" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-safe-area-context\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :react-native-svg:extractDeepLinksDebug
+
+> Task :react-native-screens:processDebugManifest
+package="com.swmansion.rnscreens" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :react-native-vector-icons:extractDeepLinksDebug
+
+> Task :react-native-svg:processDebugManifest
+package="com.horcrux.svg" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-svg\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :stripe_stripe-react-native:extractDeepLinksDebug
+
+> Task :react-native-vector-icons:processDebugManifest
+package="com.oblador.vectoricons" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-vector-icons\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo:writeDebugAarMetadata
+
+> Task :stripe_stripe-react-native:processDebugManifest
+package="com.reactnativestripesdk" found in source AndroidManifest.xml: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\@stripe\stripe-react-native\android\src\main\AndroidManifest.xml.
+Setting the namespace via a source AndroidManifest.xml's package attribute is deprecated.
+Please instead set the namespace (or testNamespace) in the module's build.gradle file, as described here: https://developer.android.com/studio/build/configure-app-module#set-namespace
+This migration can be done automatically using the AGP Upgrade Assistant, please refer to https://developer.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :expo-application:writeDebugAarMetadata
+> Task :expo-constants:writeDebugAarMetadata
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :expo-dev-client:writeDebugAarMetadata
+> Task :expo-dev-launcher:writeDebugAarMetadata
+> Task :expo-dev-menu:writeDebugAarMetadata
+> Task :expo-dev-menu-interface:writeDebugAarMetadata
+> Task :expo-file-system:writeDebugAarMetadata
+> Task :expo-font:writeDebugAarMetadata
+> Task :expo-image-loader:writeDebugAarMetadata
+> Task :expo-image-picker:writeDebugAarMetadata
+> Task :expo-json-utils:writeDebugAarMetadata
+> Task :expo-keep-awake:writeDebugAarMetadata
+> Task :expo-location:writeDebugAarMetadata
+> Task :expo-manifests:writeDebugAarMetadata
+> Task :expo-modules-core:writeDebugAarMetadata
+> Task :expo-splash-screen:writeDebugAarMetadata
+> Task :expo-updates-interface:writeDebugAarMetadata
+> Task :react-native-gesture-handler:writeDebugAarMetadata
+> Task :react-native-maps:writeDebugAarMetadata
+> Task :react-native-razorpay:writeDebugAarMetadata
+> Task :react-native-safe-area-context:writeDebugAarMetadata
+> Task :react-native-screens:writeDebugAarMetadata
+> Task :react-native-svg:writeDebugAarMetadata
+> Task :react-native-vector-icons:writeDebugAarMetadata
+> Task :stripe_stripe-react-native:writeDebugAarMetadata
+> Task :expo:compileDebugLibraryResources
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :expo-dev-client:parseDebugLocalResources
+> Task :expo-modules-core:parseDebugLocalResources
+> Task :expo:parseDebugLocalResources
+> Task :expo-constants:parseDebugLocalResources
+> Task :expo-application:parseDebugLocalResources
+> Task :expo-dev-menu:parseDebugLocalResources
+> Task :expo-dev-launcher:parseDebugLocalResources
+> Task :expo-dev-client:generateDebugRFile
+> Task :expo-dev-menu-interface:parseDebugLocalResources
+> Task :expo-json-utils:parseDebugLocalResources
+> Task :expo-manifests:parseDebugLocalResources
+> Task :expo-json-utils:generateDebugRFile
+> Task :expo-updates-interface:parseDebugLocalResources
+> Task :expo-file-system:parseDebugLocalResources
+> Task :expo-font:parseDebugLocalResources
+> Task :expo-manifests:generateDebugRFile
+> Task :expo-dev-menu-interface:generateDebugRFile
+> Task :expo-modules-core:generateDebugRFile
+> Task :expo-updates-interface:generateDebugRFile
+> Task :expo-image-loader:parseDebugLocalResources
+> Task :expo-application:generateDebugRFile
+> Task :expo-constants:generateDebugRFile
+> Task :expo-dev-menu:generateDebugRFile
+> Task :expo-font:generateDebugRFile
+> Task :expo-file-system:generateDebugRFile
+> Task :expo-image-picker:parseDebugLocalResources
+> Task :expo-keep-awake:parseDebugLocalResources
+> Task :expo-location:parseDebugLocalResources
+> Task :expo-image-loader:generateDebugRFile
+> Task :expo-dev-launcher:generateDebugRFile
+> Task :expo-keep-awake:generateDebugRFile
+> Task :expo-image-picker:generateDebugRFile
+> Task :expo-splash-screen:parseDebugLocalResources
+> Task :expo-application:compileDebugLibraryResources
+> Task :expo-location:generateDebugRFile
+> Task :expo-constants:compileDebugLibraryResources
+> Task :expo-dev-client:compileDebugLibraryResources
+> Task :expo-splash-screen:generateDebugRFile
+> Task :expo-dev-menu-interface:compileDebugLibraryResources
+> Task :expo:generateDebugRFile
+> Task :expo-font:compileDebugLibraryResources
+> Task :expo-location:compileDebugLibraryResources
+> Task :expo-image-loader:compileDebugLibraryResources
+> Task :expo-keep-awake:compileDebugLibraryResources
+> Task :expo-image-picker:compileDebugLibraryResources
+> Task :expo-json-utils:compileDebugLibraryResources
+> Task :expo-file-system:compileDebugLibraryResources
+> Task :expo-dev-menu:compileDebugLibraryResources
+> Task :expo-manifests:compileDebugLibraryResources
+> Task :expo-modules-core:compileDebugLibraryResources
+> Task :expo-splash-screen:compileDebugLibraryResources
+> Task :expo-updates-interface:compileDebugLibraryResources
+> Task :react-native-gesture-handler:compileDebugLibraryResources
+> Task :expo-dev-launcher:compileDebugLibraryResources
+> Task :react-native-gesture-handler:parseDebugLocalResources
+> Task :react-native-maps:compileDebugLibraryResources
+> Task :react-native-maps:parseDebugLocalResources
+> Task :react-native-razorpay:compileDebugLibraryResources
+> Task :react-native-gesture-handler:generateDebugRFile
+> Task :react-native-razorpay:parseDebugLocalResources
+> Task :react-native-safe-area-context:compileDebugLibraryResources
+> Task :react-native-maps:generateDebugRFile
+> Task :react-native-safe-area-context:parseDebugLocalResources
+> Task :react-native-screens:compileDebugLibraryResources
+> Task :react-native-razorpay:generateDebugRFile
+> Task :react-native-screens:parseDebugLocalResources
+> Task :react-native-svg:compileDebugLibraryResources
+> Task :react-native-safe-area-context:generateDebugRFile
+> Task :react-native-svg:parseDebugLocalResources
+> Task :react-native-vector-icons:compileDebugLibraryResources
+> Task :react-native-vector-icons:parseDebugLocalResources
+> Task :react-native-screens:generateDebugRFile
+> Task :react-native-svg:generateDebugRFile
+> Task :react-native-vector-icons:generateDebugRFile
+> Task :expo:generateDebugBuildConfig
+> Task :expo-application:generateDebugBuildConfig
+> Task :stripe_stripe-react-native:parseDebugLocalResources
+> Task :expo-modules-core:generateDebugBuildConfig
+> Task :stripe_stripe-react-native:generateDebugRFile
+> Task :stripe_stripe-react-native:compileDebugLibraryResources
+> Task :expo-modules-core:javaPreCompileDebug
+> Task :expo-application:javaPreCompileDebug
+> Task :expo-constants:generateDebugBuildConfig
+> Task :expo-constants:javaPreCompileDebug
+> Task :expo-dev-client:dataBindingMergeDependencyArtifactsDebug
+> Task :expo-dev-client:generateDebugBuildConfig
+> Task :expo-dev-client:dataBindingGenBaseClassesDebug
+> Task :expo-dev-client:compileDebugKotlin NO-SOURCE
+> Task :expo-dev-client:javaPreCompileDebug
+> Task :expo-dev-launcher:dataBindingMergeDependencyArtifactsDebug
+> Task :expo-dev-client:compileDebugJavaWithJavac
+> Task :expo-dev-client:bundleLibCompileToJarDebug
+> Task :expo-dev-launcher:dataBindingGenBaseClassesDebug
+> Task :expo-dev-launcher:generateDebugBuildConfig
+> Task :expo-dev-menu:generateDebugBuildConfig
+> Task :expo-dev-menu-interface:generateDebugBuildConfig
+> Task :expo-dev-menu-interface:javaPreCompileDebug
+> Task :expo-json-utils:generateDebugBuildConfig
+> Task :expo-json-utils:javaPreCompileDebug
+> Task :expo-manifests:generateDebugBuildConfig
+> Task :expo-manifests:javaPreCompileDebug
+> Task :expo-dev-menu:javaPreCompileDebug
+> Task :expo-updates-interface:generateDebugBuildConfig
+> Task :expo-updates-interface:compileDebugKotlin NO-SOURCE
+> Task :expo-updates-interface:javaPreCompileDebug
+> Task :expo-dev-launcher:javaPreCompileDebug
+> Task :expo-updates-interface:compileDebugJavaWithJavac
+> Task :expo-updates-interface:bundleLibCompileToJarDebug
+> Task :expo-file-system:generateDebugBuildConfig
+> Task :expo-file-system:javaPreCompileDebug
+> Task :expo-font:generateDebugBuildConfig
+> Task :expo-font:javaPreCompileDebug
+> Task :expo-image-loader:generateDebugBuildConfig
+> Task :expo-image-loader:javaPreCompileDebug
+> Task :expo-image-picker:generateDebugBuildConfig
+> Task :expo-image-picker:javaPreCompileDebug
+> Task :expo-keep-awake:generateDebugBuildConfig
+> Task :expo-keep-awake:javaPreCompileDebug
+> Task :expo-location:generateDebugBuildConfig
+> Task :expo-location:javaPreCompileDebug
+> Task :expo-splash-screen:generateDebugBuildConfig
+> Task :expo-splash-screen:javaPreCompileDebug
+> Task :expo:javaPreCompileDebug
+> Task :react-native-gesture-handler:generateDebugBuildConfig
+> Task :expo-json-utils:compileDebugKotlin
+> Task :expo-json-utils:compileDebugJavaWithJavac
+> Task :expo-json-utils:bundleLibCompileToJarDebug
+> Task :react-native-gesture-handler:javaPreCompileDebug
+> Task :react-native-maps:generateDebugBuildConfig
+> Task :react-native-maps:javaPreCompileDebug
+> Task :react-native-razorpay:generateDebugBuildConfig
+> Task :expo-dev-menu-interface:compileDebugKotlin
+
+> Task :expo-manifests:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-manifests/android/src/main/java/expo/modules/manifests/core/BaseLegacyManifest.kt:10:16 This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https://youtrack.jetbrains.com/issue/KT-47902 for details
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-manifests/android/src/main/java/expo/modules/manifests/core/BaseLegacyManifest.kt:10:86 'getLegacyID(): String' is deprecated. Prefer scopeKey or projectId depending on use case
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-manifests/android/src/main/java/expo/modules/manifests/core/BaseLegacyManifest.kt:12:72 'getStableLegacyID(): String?' is deprecated. Overrides deprecated member in 'expo.modules.manifests.core.Manifest'. Prefer scopeKey or projectId depending on use case
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-manifests/android/src/main/java/expo/modules/manifests/core/Manifest.kt:28:12 'getRawJson(): JSONObject' is deprecated. Prefer to use specific field getters
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-manifests/android/src/main/java/expo/modules/manifests/core/NewManifest.kt:18:16 This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https://youtrack.jetbrains.com/issue/KT-47902 for details
+
+> Task :expo-modules-core:compileDebugKotlin
+> Task :app:processDebugResources
+
+> Task :react-native-maps:compileDebugJavaWithJavac
+
+> Task :react-native-gesture-handler:compileDebugKotlin
+> Task :expo-dev-menu-interface:compileDebugJavaWithJavac
+> Task :expo-dev-menu-interface:bundleLibCompileToJarDebug
+> Task :expo-manifests:compileDebugJavaWithJavac
+> Task :react-native-razorpay:javaPreCompileDebug UP-TO-DATE
+> Task :expo-manifests:bundleLibCompileToJarDebug
+> Task :react-native-maps:bundleLibCompileToJarDebug
+
+> Task :react-native-razorpay:compileDebugJavaWithJavac
+
+> Task :react-native-razorpay:bundleLibCompileToJarDebug
+> Task :react-native-safe-area-context:generateDebugBuildConfig
+> Task :react-native-safe-area-context:javaPreCompileDebug
+> Task :react-native-screens:generateDebugBuildConfig
+> Task :react-native-screens:javaPreCompileDebug
+> Task :react-native-svg:generateDebugBuildConfig
+> Task :react-native-svg:javaPreCompileDebug
+> Task :react-native-vector-icons:generateDebugBuildConfig
+> Task :react-native-safe-area-context:compileDebugKotlin
+> Task :react-native-screens:compileDebugKotlin
+> Task :react-native-svg:compileDebugJavaWithJavac
+
+> Task :react-native-gesture-handler:compileDebugKotlin
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\core\GestureHandler.kt: (755, 11): Name shadowed: size
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerEnabledRootView.kt: (9, 51): Unreachable code
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerEnabledRootView.kt: (10, 80): Unreachable code
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerRootHelper.kt: (77, 18): 'onChildStartedNativeGesture(MotionEvent!): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerRootHelper.kt: (82, 42): Parameter 'disallowIntercept' is never used
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerRootHelper.kt: (114, 28): Parameter 'viewTag' is never used
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerTouchEvent.kt: (7, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerTouchEvent.kt: (14, 11): 'init(Int): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerTouchEvent.kt: (30, 42): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-gesture-handler\android\src\main\java\com\swmansion\gesturehandler\react\RNGestureHandlerTouchEvent.kt: (31, 21): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+
+> Task :react-native-vector-icons:javaPreCompileDebug
+
+> Task :react-native-screens:compileDebugKotlin
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\Screen.kt: (77, 22): 'constructor GuardedRunnable(ReactContext!)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenStackFragment.kt: (62, 28): 'setter for targetElevation: Float' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenStackFragment.kt: (119, 28): 'setter for targetElevation: Float' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenStackHeaderConfig.kt: (20, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenStackHeaderConfig.kt: (68, 47): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenStackHeaderConfig.kt: (69, 15): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenStackHeaderConfig.kt: (88, 34): 'getter for systemWindowInsetTop: Int' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenStackHeaderConfig.kt: (229, 37): 'setColorFilter(Int, PorterDuff.Mode): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenWindowTraits.kt: (64, 22): 'constructor GuardedRunnable(ReactContext!)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenWindowTraits.kt: (109, 22): 'constructor GuardedRunnable(ReactContext!)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenWindowTraits.kt: (118, 43): 'replaceSystemWindowInsets(Int, Int, Int, Int): WindowInsetsCompat' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenWindowTraits.kt: (119, 47): 'getter for systemWindowInsetLeft: Int' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenWindowTraits.kt: (121, 47): 'getter for systemWindowInsetRight: Int' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\ScreenWindowTraits.kt: (122, 47): 'getter for systemWindowInsetBottom: Int' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\SearchBarView.kt: (9, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\SearchBarView.kt: (122, 47): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\SearchBarView.kt: (123, 15): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\HeaderBackButtonClickedEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\HeaderBackButtonClickedEvent.kt: (7, 51): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\HeaderBackButtonClickedEvent.kt: (17, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\HeaderBackButtonClickedEvent.kt: (18, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenAppearEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenAppearEvent.kt: (7, 40): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenAppearEvent.kt: (13, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenAppearEvent.kt: (14, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDisappearEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDisappearEvent.kt: (7, 43): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDisappearEvent.kt: (13, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDisappearEvent.kt: (14, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDismissedEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDismissedEvent.kt: (7, 43): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDismissedEvent.kt: (13, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenDismissedEvent.kt: (17, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenTransitionProgressEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenTransitionProgressEvent.kt: (13, 5): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenTransitionProgressEvent.kt: (22, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenTransitionProgressEvent.kt: (27, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillAppearEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillAppearEvent.kt: (7, 44): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillAppearEvent.kt: (13, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillAppearEvent.kt: (14, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillDisappearEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillDisappearEvent.kt: (7, 47): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillDisappearEvent.kt: (13, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\ScreenWillDisappearEvent.kt: (14, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\StackFinishTransitioningEvent.kt: (5, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\StackFinishTransitioningEvent.kt: (7, 52): 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\StackFinishTransitioningEvent.kt: (13, 44): 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\main\java\com\swmansion\rnscreens\events\StackFinishTransitioningEvent.kt: (14, 25): 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\paper\java\com\swmansion\rnscreens\FabricEnabledViewGroup.kt: (7, 42): Parameter 'width' is never used
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-screens\android\src\paper\java\com\swmansion\rnscreens\FabricEnabledViewGroup.kt: (7, 54): Parameter 'height' is never used
+
+> Task :react-native-svg:bundleLibCompileToJarDebug
+> Task :react-native-vector-icons:compileDebugJavaWithJavac
+> Task :react-native-gesture-handler:compileDebugJavaWithJavac
+> Task :react-native-gesture-handler:bundleLibCompileToJarDebug
+> Task :react-native-screens:compileDebugJavaWithJavac
+> Task :react-native-vector-icons:bundleLibCompileToJarDebug
+> Task :react-native-screens:bundleLibCompileToJarDebug
+> Task :stripe_stripe-react-native:dataBindingMergeDependencyArtifactsDebug
+> Task :stripe_stripe-react-native:generateDebugBuildConfig
+> Task :stripe_stripe-react-native:dataBindingGenBaseClassesDebug
+> Task :stripe_stripe-react-native:javaPreCompileDebug
+
+> Task :expo-modules-core:compileDebugKotlin
+w: Argument -Xopt-in is deprecated. Please use -opt-in instead
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/adapters/react/permissions/PermissionsService.kt:157:30 'getPackageInfo(String, Int): PackageInfo!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/core/utilities/EmulatorUtilities.kt:30:13 'SERIAL: String!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/Promise.kt:68:18 This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https://youtrack.jetbrains.com/issue/KT-47902 for details
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/activityresult/ActivityResultsManager.kt:52:24 Parameter 'activity' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/activityresult/AppContextActivityResultRegistry.kt:119:51 'getParcelableExtra(String!): T?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/activityresult/AppContextActivityResultRegistry.kt:180:26 'getParcelable(String?): T?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/activityresult/AppContextActivityResultRegistry.kt:271:83 'getParcelable(String?): T?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/activityresult/DataPersistor.kt:67:20 'getSerializable(String?): Serializable?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/activityresult/DataPersistor.kt:85:26 'getSerializable(String?): Serializable?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/events/KModuleEventEmitterWrapper.kt:90:7 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/jni/JavaScriptObject.kt:59:33 Parameter 'null' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/jni/JavaScriptObject.kt:100:5 Parameter 'null' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/modules/Module.kt:43:7 'coroutineScope: CoroutineScope' is deprecated. Use a scope from the AppContext
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/types/Either.kt:24:11 Parameter 'type' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/types/Either.kt:27:11 Parameter 'type' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/types/Either.kt:44:11 Parameter 'type' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/types/Either.kt:59:11 Parameter 'type' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/types/JSTypeConverterHelper.kt:44:17 'get(String!): Any?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/views/ViewManagerDefinitionBuilder.kt:125:30 'ViewGroupDefinitionLegacyBuilder' is deprecated. Use `ViewGroupDefinitionBuilder` instead.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-modules-core/android/src/main/java/expo/modules/kotlin/views/ViewManagerDefinitionBuilder.kt:128:38 'ViewGroupDefinitionLegacyBuilder' is deprecated. Use `ViewGroupDefinitionBuilder` instead.
+
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :expo:mergeDebugShaders
+> Task :expo:compileDebugShaders NO-SOURCE
+> Task :expo:generateDebugAssets UP-TO-DATE
+> Task :expo:packageDebugAssets
+> Task :expo-application:mergeDebugShaders
+> Task :expo-application:compileDebugShaders NO-SOURCE
+> Task :expo-application:generateDebugAssets UP-TO-DATE
+> Task :expo-application:packageDebugAssets
+> Task :expo-constants:mergeDebugShaders
+> Task :expo-constants:compileDebugShaders NO-SOURCE
+
+> Task :expo-constants:createDebugExpoConfig
+Execution optimizations have been disabled for task ':expo-constants:createDebugExpoConfig' to ensure correctness due to the following reasons:
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:checkDebugAarMetadata' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:compileDebugAidl' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:compileDebugRenderscript' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:compileDebugShaders' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:createDebugCompatibleScreenManifests' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:extractDeepLinksDebug' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:generateDebugBuildConfig' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:generateDebugResValues' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:javaPreCompileDebug' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:mapDebugSourceSetPaths' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:mergeDebugNativeDebugMetadata' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:mergeDebugResources' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:mergeDebugShaders' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:processDebugMainManifest' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:processDebugManifest' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:processDebugManifestForPackage' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+  - Gradle detected a problem with the following location: 'C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\android'. Reason: Task ':expo-constants:createDebugExpoConfig' uses this output of task ':app:processDebugResources' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https://docs.gradle.org/7.5.1/userguide/validation_problems.html#implicit_dependency for more details about this problem.
+
+> Task :react-native-safe-area-context:compileDebugKotlin
+w: C:\Users\Ankit\OneDrive\Desktop\spotmefrontend\node_modules\react-native-safe-area-context\android\src\main\java\com\th3rdwave\safeareacontext\SafeAreaView.kt: (50, 23): 'getter for uiImplementation: UIImplementation!' is deprecated. Deprecated in Java
+
+> Task :expo-modules-core:compileDebugJavaWithJavac
+
+> Task :expo-modules-core:bundleLibCompileToJarDebug
+> Task :react-native-safe-area-context:compileDebugJavaWithJavac
+> Task :stripe_stripe-react-native:compileDebugKotlin
+
+> Task :expo-image-loader:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-loader/android/src/main/java/expo/modules/imageloader/ImageLoaderModule.kt:6:19 'AsyncTask<Params : Any!, Progress : Any!, Result : Any!>' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-loader/android/src/main/java/expo/modules/imageloader/ImageLoaderModule.kt:11:42 'SimpleTarget<Z : Any!>' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-loader/android/src/main/java/expo/modules/imageloader/ImageLoaderModule.kt:63:7 'AsyncTask<Params : Any!, Progress : Any!, Result : Any!>' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-loader/android/src/main/java/expo/modules/imageloader/ImageLoaderModule.kt:63:17 'THREAD_POOL_EXECUTOR: Executor!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-loader/android/src/main/java/expo/modules/imageloader/ImageLoaderModule.kt:88:22 'SimpleTarget<Z : Any!>' is deprecated. Deprecated in Java
+
+> Task :expo-application:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-application/android/src/main/java/expo/modules/application/ApplicationModule.kt:52:34 'getPackageInfo(String, Int): PackageInfo!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-application/android/src/main/java/expo/modules/application/ApplicationModule.kt:70:33 'getPackageInfo(String, Int): PackageInfo!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-application/android/src/main/java/expo/modules/application/ApplicationModule.kt:83:33 'getPackageInfo(String, Int): PackageInfo!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-application/android/src/main/java/expo/modules/application/ApplicationModule.kt:129:14 'versionCode: Int' is deprecated. Deprecated in Java
+
+> Task :expo-constants:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-constants/android/src/main/java/expo/modules/constants/ConstantsService.kt:59:42 'getPackageInfo(String, Int): PackageInfo!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-constants/android/src/main/java/expo/modules/constants/ConstantsService.kt:130:17 'versionCode: Int' is deprecated. Deprecated in Java
+
+> Task :expo-font:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-font/android/src/main/java/expo/modules/font/FontLoaderModule.kt:55:38 Type mismatch: inferred type is String? but String was expected
+
+> Task :expo-file-system:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:8:19 'AsyncTask<Params : Any!, Progress : Any!, Result : Any!>' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:428:27 Type mismatch: inferred type is String? but String was expected
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:472:29 Type mismatch: inferred type is String? but String was expected
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:561:43 Parameter 'options' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:649:46 Parameter 'options' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:773:43 Unchecked cast: Any? to Map<String, Any>?
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:790:40 'create(MediaType?, File): RequestBody' is deprecated. Moved to extension function. Put the 'file' argument first to fix Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:795:15 Unchecked cast: Any to Map<String, Any>
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:927:49 Unchecked cast: Any? to Map<String, Any>?
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1028:43 Unchecked cast: Any? to Map<String, Any>?
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1040:9 'execute(vararg FileSystemModule.DownloadResumableTaskParams?): AsyncTask<FileSystemModule.DownloadResumableTaskParams?, Void?, Void?>!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1101:47 'AsyncTask<Params : Any!, Progress : Any!, Result : Any!>' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1101:47 'constructor AsyncTask<Params : Any!, Progress : Any!, Result : Any!>()' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1114:21 Variable 'count' initializer is redundant
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1248:39 'toLowerCase(Locale): String' is deprecated. Use lowercase() instead.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1285:35 Type mismatch: inferred type is String? but String was expected
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-file-system/android/src/main/java/expo/modules/filesystem/FileSystemModule.kt:1319:11 'get(String!): Any?' is deprecated. Deprecated in Java
+
+> Task :expo-dev-menu:compileDebugKotlin
+
+> Task :expo-image-picker:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-picker/android/src/main/java/expo/modules/imagepicker/ImagePickerConstants.kt:123:23 'TAG_ISO_SPEED_RATINGS: String' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-picker/android/src/main/java/expo/modules/imagepicker/MediaHandler.kt:76:5 Unreachable code
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-image-picker/android/src/main/java/expo/modules/imagepicker/contracts/CropImageContract.kt:57:26 'getParcelableExtra(String!): T?' is deprecated. Deprecated in Java
+
+> Task :expo-image-loader:compileDebugJavaWithJavac
+> Task :expo-application:compileDebugJavaWithJavac
+> Task :expo-application:bundleLibCompileToJarDebug
+> Task :expo-constants:compileDebugJavaWithJavac
+> Task :expo-constants:bundleLibCompileToJarDebug
+> Task :expo-file-system:compileDebugJavaWithJavac
+> Task :expo-file-system:bundleLibCompileToJarDebug
+> Task :expo-font:compileDebugJavaWithJavac
+> Task :expo-font:bundleLibCompileToJarDebug
+> Task :expo-image-loader:bundleLibCompileToJarDebug
+
+> Task :expo-dev-menu:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuAppInfo.kt:12:38 'getPackageInfo(String, Int): PackageInfo!' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuAppInfo.kt:15:42 'getApplicationInfo(String, Int): ApplicationInfo' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuAppInfo.kt:61:42 'getApplicationInfo(String, Int): ApplicationInfo' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuAppInfo.kt:62:38 'get(String!): Any?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuAppInfo.kt:69:42 'getApplicationInfo(String, Int): ApplicationInfo' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuAppInfo.kt:71:9 Condition 'applicationInfo.icon != null' is always 'true'
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuHost.kt:110:52 Unnecessary safe call on a non-null receiver of type ReactApplication
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuManager.kt:196:88 'ReactInstanceEventListener' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/debug/java/expo/modules/devmenu/DevMenuManager.kt:486:43 The corresponding parameter in the supertype 'DevMenuManagerInterface' is named 'shouldAutoLaunch'. This may cause problems when calling this function with named arguments.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/main/java/expo/modules/devmenu/helpers/DevMenuOkHttpExtension.kt:58:19 'create(MediaType?, String): RequestBody' is deprecated. Moved to extension function. Put the 'content' argument first to fix Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/android/src/main/java/expo/modules/devmenu/modules/DevMenuModule.kt:32:62 Unchecked cast: java.util.ArrayList<Any!> to kotlin.collections.ArrayList<String> /* = java.util.ArrayList<String> */
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/FlingGestureHandler.kt:30:17 'constructor Handler()' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/GestureHandler.kt:676:11 Name shadowed: size
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/LongPressGestureHandler.kt:44:17 'constructor Handler()' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/TapGestureHandler.kt:73:17 'constructor Handler()' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/TapGestureHandler.kt:82:17 'constructor Handler()' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerEvent.kt:7:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerEvent.kt:17:11 'init(Int): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerEvent.kt:33:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerEvent.kt:34:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:439:30 'RNGestureHandlerEnabledRootView' is deprecated. Use <GestureHandlerRootView /> component instead. Check gesture handler installation instructions in documentation for more information.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:449:11 'onCatalystInstanceDestroy(): Unit' is deprecated. Overrides deprecated member in 'com.facebook.react.bridge.NativeModule'. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:454:33 'resolveRootTagFromReactTag(Int): Int' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:479:19 'RNGestureHandlerEnabledRootView' is deprecated. Use <GestureHandlerRootView /> component instead. Check gesture handler installation instructions in documentation for more information.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:505:33 'resolveRootTagFromReactTag(Int): Int' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:520:67 Parameter 'motionEvent' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper.kt:75:18 'onChildStartedNativeGesture(MotionEvent!): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper.kt:80:42 Parameter 'disallowIntercept' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper.kt:112:28 Parameter 'viewTag' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerRootView.kt:54:23 'RNGestureHandlerEnabledRootView' is deprecated. Use <GestureHandlerRootView /> component instead. Check gesture handler installation instructions in documentation for more information.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerStateChangeEvent.kt:7:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerStateChangeEvent.kt:18:11 'init(Int): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerStateChangeEvent.kt:35:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerStateChangeEvent.kt:36:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerTouchEvent.kt:7:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerTouchEvent.kt:14:11 'init(Int): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerTouchEvent.kt:30:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-dev-menu/vendored/react-native-gesture-handler/android/devmenu/com/swmansion/gesturehandler/react/RNGestureHandlerTouchEvent.kt:31:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+
+> Task :expo-image-picker:compileDebugJavaWithJavac
+> Task :expo-image-picker:bundleLibCompileToJarDebug
+
+> Task :expo-dev-menu:compileDebugJavaWithJavac
+
+> Task :expo-location:compileDebugKotlin NO-SOURCE
+> Task :expo-keep-awake:compileDebugKotlin
+> Task :expo-dev-menu:bundleLibCompileToJarDebug
+
+> Task :expo-location:compileDebugJavaWithJavac
+
+> Task :expo-keep-awake:compileDebugJavaWithJavac
+> Task :expo-keep-awake:bundleLibCompileToJarDebug
+> Task :expo-location:bundleLibCompileToJarDebug
+> Task :expo-constants:copyDebugExpoConfig
+> Task :expo-constants:generateDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibCompileToJarDebug
+> Task :expo-constants:packageDebugAssets
+> Task :expo-dev-client:mergeDebugShaders
+> Task :expo-dev-client:compileDebugShaders NO-SOURCE
+> Task :expo-dev-client:generateDebugAssets UP-TO-DATE
+> Task :expo-dev-client:packageDebugAssets
+> Task :expo-dev-launcher:mergeDebugShaders
+> Task :expo-dev-launcher:compileDebugShaders NO-SOURCE
+> Task :expo-dev-launcher:generateDebugAssets UP-TO-DATE
+> Task :expo-dev-launcher:packageDebugAssets
+> Task :expo-dev-menu:mergeDebugShaders
+> Task :expo-dev-menu:compileDebugShaders NO-SOURCE
+> Task :expo-dev-menu:copyAssets
+> Task :expo-dev-menu:generateDebugAssets UP-TO-DATE
+> Task :expo-dev-menu:packageDebugAssets
+> Task :expo-dev-menu-interface:mergeDebugShaders
+> Task :expo-dev-menu-interface:compileDebugShaders NO-SOURCE
+> Task :expo-dev-menu-interface:generateDebugAssets UP-TO-DATE
+> Task :expo-dev-menu-interface:packageDebugAssets
+> Task :expo-file-system:mergeDebugShaders
+> Task :expo-file-system:compileDebugShaders NO-SOURCE
+> Task :expo-file-system:generateDebugAssets UP-TO-DATE
+> Task :expo-file-system:packageDebugAssets
+> Task :expo-font:mergeDebugShaders
+> Task :expo-font:compileDebugShaders NO-SOURCE
+> Task :expo-font:generateDebugAssets UP-TO-DATE
+> Task :expo-font:packageDebugAssets
+> Task :expo-image-loader:mergeDebugShaders
+> Task :expo-image-loader:compileDebugShaders NO-SOURCE
+> Task :expo-image-loader:generateDebugAssets UP-TO-DATE
+> Task :expo-image-loader:packageDebugAssets
+> Task :expo-image-picker:mergeDebugShaders
+> Task :expo-image-picker:compileDebugShaders NO-SOURCE
+> Task :expo-image-picker:generateDebugAssets UP-TO-DATE
+> Task :expo-image-picker:packageDebugAssets
+> Task :expo-json-utils:mergeDebugShaders
+> Task :expo-json-utils:compileDebugShaders NO-SOURCE
+> Task :expo-json-utils:generateDebugAssets UP-TO-DATE
+> Task :expo-json-utils:packageDebugAssets
+> Task :expo-keep-awake:mergeDebugShaders
+> Task :expo-keep-awake:compileDebugShaders NO-SOURCE
+> Task :expo-keep-awake:generateDebugAssets UP-TO-DATE
+> Task :expo-keep-awake:packageDebugAssets
+> Task :expo-location:mergeDebugShaders
+> Task :expo-location:compileDebugShaders NO-SOURCE
+> Task :expo-location:generateDebugAssets UP-TO-DATE
+> Task :expo-location:packageDebugAssets
+> Task :expo-manifests:mergeDebugShaders
+> Task :expo-manifests:compileDebugShaders NO-SOURCE
+> Task :expo-manifests:generateDebugAssets UP-TO-DATE
+> Task :expo-manifests:packageDebugAssets
+> Task :expo-modules-core:mergeDebugShaders
+> Task :expo-modules-core:compileDebugShaders NO-SOURCE
+> Task :expo-modules-core:generateDebugAssets UP-TO-DATE
+> Task :expo-modules-core:packageDebugAssets
+> Task :expo-splash-screen:mergeDebugShaders
+> Task :expo-splash-screen:compileDebugShaders NO-SOURCE
+> Task :expo-splash-screen:generateDebugAssets UP-TO-DATE
+> Task :expo-splash-screen:packageDebugAssets
+> Task :expo-updates-interface:mergeDebugShaders
+> Task :expo-updates-interface:compileDebugShaders NO-SOURCE
+> Task :expo-updates-interface:generateDebugAssets UP-TO-DATE
+> Task :expo-updates-interface:packageDebugAssets
+> Task :react-native-gesture-handler:mergeDebugShaders
+> Task :react-native-gesture-handler:compileDebugShaders NO-SOURCE
+> Task :react-native-gesture-handler:generateDebugAssets UP-TO-DATE
+> Task :react-native-gesture-handler:packageDebugAssets
+> Task :react-native-maps:mergeDebugShaders
+> Task :react-native-maps:compileDebugShaders NO-SOURCE
+> Task :react-native-maps:generateDebugAssets UP-TO-DATE
+
+> Task :stripe_stripe-react-native:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardChangedEvent.kt:6:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardChangedEvent.kt:8:235 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardChangedEvent.kt:13:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardChangedEvent.kt:14:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFieldView.kt:207:9 Identity equality for arguments of types Boolean and Boolean is deprecated
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFocusEvent.kt:5:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFocusEvent.kt:7:92 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFocusEvent.kt:12:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFocusEvent.kt:13:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFormCompleteEvent.kt:6:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFormCompleteEvent.kt:8:200 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFormCompleteEvent.kt:13:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/CardFormCompleteEvent.kt:14:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/FinancialConnectionsSheetFragment.kt:244:9 Duplicate label in when
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/FormCompleteEvent.kt:5:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/FormCompleteEvent.kt:7:112 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/FormCompleteEvent.kt:12:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/FormCompleteEvent.kt:13:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/PaymentSheetFragment.kt:80:62 'drawableResourceId: Int' is deprecated. Please use fetchIcon instead.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/PaymentSheetFragment.kt:169:62 'drawableResourceId: Int' is deprecated. Please use fetchIcon instead.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/StripeSdkModule.kt:77:25 'getParcelableExtra(String!): T?' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/StripeSdkModule.kt:856:19 Parameter 'eventName' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/StripeSdkModule.kt:858:23 Parameter 'count' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/addresssheet/AddressSheetEvent.kt:5:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/addresssheet/AddressSheetEvent.kt:7:132 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/addresssheet/AddressSheetEvent.kt:13:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/addresssheet/AddressSheetEvent.kt:14:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/pushprovisioning/AddToWalletCompleteEvent.kt:4:44 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/pushprovisioning/AddToWalletCompleteEvent.kt:6:102 'constructor Event<T : Event<(raw) Event<*>>!>(Int)' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/pushprovisioning/AddToWalletCompleteEvent.kt:11:42 'RCTEventEmitter' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/pushprovisioning/AddToWalletCompleteEvent.kt:12:21 'receiveEvent(Int, String!, WritableMap?): Unit' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/@stripe/stripe-react-native/android/src/main/java/com/reactnativestripesdk/pushprovisioning/TapAndPayProxy.kt:29:39 Unchecked cast: Any! to Task<List<Any>>
+
+> Task :react-native-maps:packageDebugAssets
+> Task :react-native-razorpay:mergeDebugShaders
+> Task :react-native-razorpay:compileDebugShaders NO-SOURCE
+> Task :react-native-razorpay:generateDebugAssets UP-TO-DATE
+> Task :react-native-razorpay:packageDebugAssets
+> Task :react-native-safe-area-context:mergeDebugShaders
+> Task :react-native-safe-area-context:compileDebugShaders NO-SOURCE
+> Task :react-native-safe-area-context:generateDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:packageDebugAssets
+> Task :react-native-screens:mergeDebugShaders
+> Task :react-native-screens:compileDebugShaders NO-SOURCE
+> Task :react-native-screens:generateDebugAssets UP-TO-DATE
+> Task :react-native-screens:packageDebugAssets
+> Task :react-native-svg:mergeDebugShaders
+> Task :react-native-svg:compileDebugShaders NO-SOURCE
+> Task :react-native-svg:generateDebugAssets UP-TO-DATE
+
+> Task :expo-splash-screen:compileDebugKotlin
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/SplashScreenReactActivityLifecycleListener.kt:17:50 Parameter 'activityContext' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/SplashScreenReactActivityLifecycleListener.kt:35:66 'toLowerCase(): String' is deprecated. Use lowercase() instead.
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/SplashScreenViewController.kt:20:25 'constructor Handler()' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/SplashScreenViewController.kt:41:5 Parameter 'failureCallback' is never used
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/singletons/SplashScreenStatusBar.kt:23:27 'replaceSystemWindowInsets(Int, Int, Int, Int): WindowInsets' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/singletons/SplashScreenStatusBar.kt:24:29 'getter for systemWindowInsetLeft: Int' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/singletons/SplashScreenStatusBar.kt:26:29 'getter for systemWindowInsetRight: Int' is deprecated. Deprecated in Java
+w: file:///C:/Users/Ankit/OneDrive/Desktop/spotmefrontend/node_modules/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/singletons/SplashScreenStatusBar.kt:27:29 'getter for systemWindowInsetBottom: Int' is deprecated. Deprecated in Java
+
+> Task :react-native-svg:packageDebugAssets
+> Task :react-native-vector-icons:mergeDebugShaders
+> Task :react-native-vector-icons:compileDebugShaders NO-SOURCE
+> Task :react-native-vector-icons:generateDebugAssets UP-TO-DATE
+> Task :react-native-vector-icons:packageDebugAssets
+Terminate batch job (Y/N)? 
